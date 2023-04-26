@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @DiiiaZoTe
+- 👋 Hi, I’m @DiiiaZoTe (Alex)
 - 👀 I’m interested in coding for fun
-- 🌱 I’m currently learning lots of things every day
+- 🌱 I’m currently learning everyday, just trying to build new things.
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me... Just find a way
+
+My twitter: https://twitter.com/DiiiaZoTe
+My LinkedIn: https://www.linkedin.com/in/alexander-vencel-694a52193/
 
 <!---
 DiiiaZoTe/DiiiaZoTe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
