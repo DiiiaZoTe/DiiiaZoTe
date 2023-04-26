@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on anything
 
 My twitter: https://twitter.com/DiiiaZoTe
+
 My LinkedIn: https://www.linkedin.com/in/alexander-vencel-694a52193/
 
 <!---
