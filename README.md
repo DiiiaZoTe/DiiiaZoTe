@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DiiiaZoTe (Alex)
-- 👀 I’m interested in coding for fun
+- 👀 Find me coding in my corner...
 - 🌱 I’m currently learning everyday, just trying to build new things.
 - 💞️ I’m looking to collaborate on anything
 
